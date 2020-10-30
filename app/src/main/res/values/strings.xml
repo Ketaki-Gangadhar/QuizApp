@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <string name="app_name">QuizBox</string>
+    <string name="image_for_app">image for app</string>
+    <string name="quiz">Quiz</string>
+    <string name="box">Box</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="are_you_ready_to_take_a_quiz">Are you ready to take a quiz?</string>
+    <string name="background_image">background image</string>
+    <string name="qu">QuizBox</string>
+    <string name="text_name">text name</string>
+    <string name="c">C++</string>
+    <string name="python">Python</string>
+    <string name="java">Java</string>
+    <string name="select_a_programming_language">Select a programming Language :</string>
+    <string name="proceed">Proceed</string>
+    <string name="c1">C++</string>
+    <string name="java1">Java</string>
+    <string name="p1">Python</string>
+    <string name="question">Question</string>
+    <string name="name1">1/1</string>
+    <string name="option_1">option 1</string>
+    <string name="option_2">option 2</string>
+    <string name="option_3">option 3</string>
+    <string name="option_4">option 4</string>
+    <string name="next">Submit</string>
+    <string name="_00_30">00:30</string>
+    <string name="textview">TextView</string>
+
+
+</resources>
