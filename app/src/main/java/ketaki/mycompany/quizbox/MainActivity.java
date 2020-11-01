@@ -27,18 +27,12 @@ public class MainActivity extends AppCompatActivity {
                 openNewActivity();
 
 
-
             }
         });
-
-
-
 
     }
 
     public void openNewActivity(){
-
-
 
         Intent intent = new Intent(this, Selection.class);
 
